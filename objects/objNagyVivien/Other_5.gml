@@ -1,0 +1,1 @@
+global.npcData.nv = data;

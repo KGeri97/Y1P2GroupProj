@@ -1,0 +1,1 @@
+objPlayer.journalMark[0] = id;
